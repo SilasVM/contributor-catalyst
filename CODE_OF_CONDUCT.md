@@ -97,9 +97,17 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 Please keep in mind that this reporting process is meant to be constructive. Consequently, we would like to dissuade abusing the reporting procedures with malicious intent.
 
--> Enforcement - take a break
 -> Personal disputes / leave personal disagreements, settle privately / negotiate disagreement 
 <!--- Define personal disputes and other personal disagreements --->
+Personal Disputes include disputes that:
+- Did not originate or begin in a Catalyst managed environment
+- Do not pertain to any work on Catalyst projects
+- Do not disrupt the workflow of any project
 
+We ask that any personal disputes are handled outside of the work environment and/or on personal time
+
+## Enforcement 
+- Any participants seen to be distruptive to the workflow in any capacity may be asked to take a break
+- Certain laws require that faculty make reports of any illegal activities performed on campus
 ## Attribution
 -> add 3 CoCs used as source material
