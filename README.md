@@ -75,3 +75,14 @@ Here's how to quickly access the emoji keyboards/palettes on various operating s
 ## 💻 Technical Resources
 1. *[Basics of Open Source Licenses Article](https://medium.com/nationwide-technology/a-short-guide-to-open-source-licenses-cf5b1c329edd)*
 2. *[Summarized Software Licenses](https://tldrlegal.com/)*
+
+   ## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
