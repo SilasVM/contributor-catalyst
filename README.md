@@ -88,6 +88,13 @@ Here's how to quickly access the emoji keyboards/palettes on various operating s
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SilasVM"><img src="https://avatars.githubusercontent.com/u/124199231?v=4?s=100" width="100px;" alt="Silas Morgan"/><br /><sub><b>Silas Morgan</b></sub></a><br /><a href="#doc-SilasVM" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
