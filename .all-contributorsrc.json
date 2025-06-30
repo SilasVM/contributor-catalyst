@@ -1,4 +1,24 @@
 {
   "projectName": "contributor-catalyst",
   "projectOwner": "SilasVM"
+    "files": [
+    "README.md"
+  ],
+  "imageSize": 64,
+  "contributorsPerLine": 6,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "SilasVM",
+      "name": "Silas Morgan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124199231?v=4",
+      "profile": "https://github.com/SilasVM",
+      "contributions": [4]
+    }
+  ],
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
